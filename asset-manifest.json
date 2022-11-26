@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Malik-Royals-deploy/static/css/main.55579a1a.css",
+    "main.js": "/Malik-Royals-deploy/static/js/main.24f473a8.js",
+    "index.html": "/Malik-Royals-deploy/index.html",
+    "main.55579a1a.css.map": "/Malik-Royals-deploy/static/css/main.55579a1a.css.map",
+    "main.24f473a8.js.map": "/Malik-Royals-deploy/static/js/main.24f473a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55579a1a.css",
+    "static/js/main.24f473a8.js"
+  ]
+}
